@@ -1,5 +1,3 @@
-# Alternative formats
-
 Click to download the Greenpeace Root Certificate in alternative formats:
 
 * [Download the CRT file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.crt)
