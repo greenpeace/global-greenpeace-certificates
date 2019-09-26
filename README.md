@@ -1,4 +1,4 @@
-## Alternative formats
+# Alternative formats
 
 Click to download the Greenpeace Root Certificate in alternative formats:
 
