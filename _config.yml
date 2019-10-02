@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Root Certificates
 description: Download the Greenpeace Root Certificate in different formats
 show_downloads: "true"
+logo: greenpeace_logo.png
