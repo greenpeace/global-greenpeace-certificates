@@ -27,12 +27,13 @@
         <img src="{{ site.logo }}" width="300px">
       {% endif %}
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="https://ca.greenpeace.org/GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.pem" class="btn">Download .pem</a>
-      {% endif %}
+      
       {% if site.show_downloads %}
-        <a href="https://ca.greenpeace.org/GreenpeaceRootCA2010.zip" class="btn">Download all .zip</a>
+              <a href="https://ca.greenpeace.org/GreenpeaceRootCA2010.zip" class="btn">Download CA2010 zip</a>
+              <a href="https://ca.greenpeace.org/GreenpeaceRootIA2020.zip" class="btn">Download IA2020 zip</a>
+              <a href="https://ca.greenpeace.org/GreenpeaceRootBundle2020.zip" class="btn">Download RootBundle zip</a>
       {% endif %}
+      
     </header>
 
     <main id="content" class="main-content" role="main">
