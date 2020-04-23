@@ -1,13 +1,15 @@
-Click to download the Greenpeace Root Certificate CA2010 in alternative formats (with sha256 hash):
+Click to download the Greenpeace Root Certificate CA2010 in alternative formats :
 
-* [Download the PEM file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.pem) 4d828538e93d11c7758107a2ebe8a42947686bacd498b1adb34b2f34d6d96f8f 
-* [Download the CRT file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.crt) 4d828538e93d11c7758107a2ebe8a42947686bacd498b1adb34b2f34d6d96f8f
-* [Download the DER file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.der) 95fffccd6b04992f171a9581bfa922c67fef6d26c23df82796c1e371c44b47e0
-* [Download the TXT file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.txt) 4d828538e93d11c7758107a2ebe8a42947686bacd498b1adb34b2f34d6d96f8f
+* [Download the PEM file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.pem)
+* [Download the CRT file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.crt)
+* [Download the DER file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.der)
+* [Download the TXT file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.txt)
+* [Download the SHA file](GreenpeaceGlobalAuthenticationandEncryptionRootCA2010.sha256sum.txt)
 
-Click to download the Greenpeace Root Certificate IA2020 in alternative formats (with sha256 hash):
+Click to download the Greenpeace Root Certificate IA2020 in alternative formats :
 
-* [Download the PEM file](GreenpeaceGlobalAuthenticationandEncryptionRootIA2020.pem) 2e8116c6d722de1ccf386ecc7df05e485eadaabd33c594ccc514efb8772beda1
-* [Download the CRT file](GreenpeaceGlobalAuthenticationandEncryptionRootIA2020.crt) 2e8116c6d722de1ccf386ecc7df05e485eadaabd33c594ccc514efb8772beda1
-* [Download the DER file](GreenpeaceGlobalAuthenticationandEncryptionRootIA2020.der) 51dca2031c25a617803bc2eb8d40f023bb4ae9a71dd81a60defc1dae15958304
-* [Download the TXT file](GreenpeaceGlobalAuthenticationandEncryptionRootIA2020.txt) 1c30e2fe71c0b001b33fa3aeb9eb9ed11c01a22afe9cdbc419adc82c8e04c995
+* [Download the PEM file](GreenpeaceGlobalAuthenticationandEncryptionRootIA2020.pem)
+* [Download the CRT file](GreenpeaceGlobalAuthenticationandEncryptionRootIA2020.crt)
+* [Download the DER file](GreenpeaceGlobalAuthenticationandEncryptionRootIA2020.der)
+* [Download the TXT file](GreenpeaceGlobalAuthenticationandEncryptionRootIA2020.txt) 
+* [Download the SHA file](GreenpeaceGlobalAuthenticationandEncryptionRootIA2020.sha256sum.txt)
